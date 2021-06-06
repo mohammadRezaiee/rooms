@@ -6,7 +6,7 @@ import MapboxGL from '@react-native-mapbox-gl/maps';
 import IconMarker from '../assets/icons/marker.png';
 
 MapboxGL.setAccessToken(
-  'sk.eyJ1IjoibW9oYW1tYWQtcmV6YSIsImEiOiJja2Y3ZXExOWowMW9xMnBvOXQ3MHN4ZjhhIn0.eIVB7ri_Jd5bH9ZnKK_xKg',
+  'YOUR_TOKEN',
 );
 MapboxGL.setConnected(true);
 
