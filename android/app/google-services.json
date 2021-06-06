@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "654170334670",
+    "firebase_url": "https://rooms-6b987.firebaseio.com",
+    "project_id": "rooms-6b987",
+    "storage_bucket": "rooms-6b987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654170334670:android:12537b3023e4b765c5b79f",
+        "android_client_info": {
+          "package_name": "com.rooms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654170334670-u821alhgje6kt4r65mgnkkm54rpb55rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rooms",
+            "certificate_hash": "2ceb70b188bfe9770835b55b7f551bf529cd0b52"
+          }
+        },
+        {
+          "client_id": "654170334670-fqe6j84mjua8b48iakt6qdssrktsc6sa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rooms",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "654170334670-iimdc64hjn6lieibsenhccqmvt95n3kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2466i9WWgRYoKi5ZzDIk5k0cyq86ZyD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654170334670-iimdc64hjn6lieibsenhccqmvt95n3kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
